@@ -2,7 +2,8 @@
 
 
 
-https://app.powerbi.com/reportEmbed?reportId=52c6e140-25af-4e40-89e4-b1faab0b2c10&autoAuth=true&ctid=53bc24c5-73ad-421a-9408-3ea555be4a07
+
+👉 [Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=52c6e140-25af-4e40-89e4-b1faab0b2c10&autoAuth=true&ctid=53bc24c5-73ad-421a-9408-3ea555be4a07)
 ## 🎯 Project Goal
 The goal of this project was to build an **interactive Power BI dashboard** for a fictional toy retail chain in Mexico – **Maven Toys 🧸🪀**.  
 The dashboard enables analysis of sales, profit margins, profitability, and inventory levels, supporting decision-making at the product, store, and corporate level.
